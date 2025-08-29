@@ -1,0 +1,14 @@
+# Backend (Java / Spring Boot)
+backend/target/
+backend/.idea/
+backend/*.iml
+
+# Frontend (React)
+frontend/node_modules/
+frontend/build/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
